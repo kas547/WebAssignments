@@ -10,3 +10,6 @@ $(document).ready(function)()
 
 
 $(".h1").css ("background, lightyellow")
+
+$("#target").addclass("fadeout")
+
