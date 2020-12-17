@@ -8,3 +8,25 @@ h1  {
 p {
     color: orangered
 }
+
+
+* {
+    margin: 0;
+
+}
+
+
+
+.wrapper {
+    border: 2px dotted red;
+    width: 100vw;
+    height: 67vw;
+    margin: 0 auto;
+
+}
+
+
+h1 {
+    text-align:center;
+    
+}
